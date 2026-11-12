@@ -32,5 +32,5 @@ This project demonstrates:
 - Merge back into main
 - GitHub submission
 ## Contributors
-- Yashasdv
-- [Rohan.r]
+- Rohan.r
+- [yashas.dv]
